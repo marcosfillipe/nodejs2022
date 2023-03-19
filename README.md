@@ -5,3 +5,8 @@
 </div>
 
 ---
+
+# Capitulo 1
+
+  -Treinamento de Rotas, conceitos de GET, POST, PUT, DELETE, PATH
+
