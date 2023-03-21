@@ -1,0 +1,11 @@
+node_modules
+.idea/
+dist/
+
+temp/
+ormconfig.js
+ormconfig.ts
+dump.rdb
+.vscode/settings.json
+
+*.log
