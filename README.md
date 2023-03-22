@@ -14,12 +14,12 @@
 <tr>
 <td>-</td>
 <td>**Desafio 1 - 2**:</td>
-<td><a href="https://github.com/marcosfillipe/nodejsdesafio1">Desafio: Conceitos do Node.js e Middlewares</a></td>
+<td><a href="https://github.com/marcosfillipe/nodejsdesafio1">Conceitos do Node.js e Middlewares</a></td>
 </tr>
 <tr>
 <td>-</td>
-<td>**Desafio 3**:</td>
-<td><a href="https://github.com/marcosfillipe/nodejsdesafio3">Desafio: Corrigindo o códigos</a></td>
+<td><font style="font-weight: bold;">Desafio 3</font></td>
+<td><a href="https://github.com/marcosfillipe/nodejsdesafio3">Corrigindo o códigos</a></td>
 </tr>
 </table>
 
