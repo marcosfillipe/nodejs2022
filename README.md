@@ -16,4 +16,4 @@
 
 # Capitulo 2
 
-- Iniciando Conceitos de API de desenvolvendo e controle de rotas, ultilizando TypeScript, casos de usos, models e repositorios.
+- Iniciando Conceitos de API de desenvolvendo e controle de rotas, ultilizando TypeScript, models e repositorios.
