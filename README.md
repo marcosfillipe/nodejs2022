@@ -10,9 +10,18 @@
 
 - Treinamento de Rotas, conceitos de GET, POST, PUT, DELETE, PATH
 
-  - **Desafio 1 - 2**: <a href="https://github.com/marcosfillipe/nodejsdesafio1">Desafio: Conceitos do Node.js e Middlewares</a>
-  
-  - **Desafio 3**: <a href="https://github.com/marcosfillipe/nodejsdesafio3">Desafio: Corrigindo o códigos</a>
+<table>
+<tr>
+<td>-</td>
+<td>**Desafio 1 - 2**:</td>
+<td><a href="https://github.com/marcosfillipe/nodejsdesafio1">Desafio: Conceitos do Node.js e Middlewares</a></td>
+</tr>
+<tr>
+<td>-</td>
+<td>**Desafio 3**:</td>
+<td><a href="https://github.com/marcosfillipe/nodejsdesafio3">Desafio: Corrigindo o códigos</a></td>
+</tr>
+</table>
 
 # Capitulo 2
 
