@@ -2,7 +2,7 @@ import { CategoriesRepository } from "../../repositories/implemetations/Categori
 import { ImportCategoriesController } from "./ImportCategoriesController";
 import { ImportCategoriesService } from "./ImportCategoriesService";
 
-const categoriesRepository = CategoriesRepository.getInstance();
+const categoriesRepository = null;
 const importCategoriesService = new ImportCategoriesService(
   categoriesRepository
 );

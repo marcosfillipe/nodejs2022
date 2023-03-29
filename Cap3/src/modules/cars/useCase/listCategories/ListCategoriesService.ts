@@ -1,19 +1,13 @@
-import { Category } from "../../model/Category";
+import { Category } from "../../entities/Category";
 import { ICategoriesRepository } from "../../repositories/ICategoriesRepository";
 
 class ListCategoriesService {
+  constructor(private categoriesRepository: ICategoriesRepository) {}
+  execute(): Category[] {
+    const all = this.categoriesRepository.list();
 
-    constructor(private categoriesRepository: ICategoriesRepository) {
-
-    }
-    execute(): Category[] {
-
-        const all = this.categoriesRepository.list();
-
-        return all;
-
-    }
-
+    return all;
+  }
 }
 
-export { ListCategoriesService }
+export { ListCategoriesService };
