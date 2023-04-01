@@ -4,13 +4,20 @@ import { ICategoriesRepository } from "../../modules/cars/repositories/ICategori
 import { CategoriesRepository } from "../../modules/cars/repositories/implemetations/CategoriesRepository";
 import { SpecificationRepository } from "../../modules/cars/repositories/implemetations/SpecificationRepository";
 import { ISpecificationRepository } from "../../modules/cars/repositories/ISpecificationRepository";
+import { UsersRepository } from "../../modules/accounts/repositories/implemetations/UsersRepository";
+import { IUsersRepository } from "../../modules/accounts/repositories/IUsersRepository";
 
 container.registerSingleton<ICategoriesRepository>(
-  "CategoriesRepository",
-  CategoriesRepository
+	"CategoriesRepository",
+	CategoriesRepository
 );
 
 container.registerSingleton<ISpecificationRepository>(
-  "SpecificationRepository",
-  SpecificationRepository
+	"SpecificationRepository",
+	SpecificationRepository
+);
+
+container.registerSingleton<IUsersRepository>(
+	"UsersRepository",
+	UsersRepository
 );
