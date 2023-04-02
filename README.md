@@ -25,4 +25,4 @@
 
 - Iniciando a utilização de banco de dados relacional, aplicando ferramentas como o Docker, TypeORM, JWT e Bcrypt no backend da aplicação.
 
-  
+  - **Desafio 1**: - [Database Queries](https://github.com/marcosfillipe/nodejscap3d1.git)
