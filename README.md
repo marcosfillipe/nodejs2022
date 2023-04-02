@@ -19,3 +19,10 @@
 - Iniciando Conceitos de API de desenvolvendo e controle de rotas, ultilizando TypeScript, models e repositorios.
 
   - **Desafio 1**: - [Introdução ao SOLID](https://github.com/marcosfillipe/nodejsdesafiocap2d1)
+  
+  
+# Capitulo 3
+
+- Iniciando a utilização de banco de dados relacional, aplicando ferramentas como o Docker, TypeORM, JWT e Bcrypt no backend da aplicação.
+
+  
