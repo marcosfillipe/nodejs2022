@@ -1,0 +1,519 @@
+[33mcommit 0146fe4b9d99ed06a028c1407a90c69106a4eaf3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Tue Apr 11 23:12:46 2023 -0300
+
+    implementacao de TDD e continuacao do projeto
+
+[33mcommit 4be19831a8bfe11df02814f30c3febeec839e17f[m
+Merge: 314112e 19e2d42
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Apr 5 18:32:30 2023 -0300
+
+    Merge branch 'master' of https://github.com/marcosfillipe/nodejs2022
+
+[33mcommit 19e2d42175e4168510283094c70515b52ead2f7d[m
+Merge: f6897e1 190fb97
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Wed Apr 5 18:31:48 2023 -0300
+
+    Merge pull request #2 from marcosfillipe/cap4
+    
+    refatoracao de codigo
+
+[33mcommit 314112edcabe5ae764c98eca88698e07098ac273[m
+Merge: 190fb97 f6897e1
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Apr 5 18:30:34 2023 -0300
+
+    Merge branch 'master' of https://github.com/marcosfillipe/nodejs2022
+
+[33mcommit 190fb971b4d1c17a4e6242338f063ebf0670c383[m[33m ([m[1;31morigin/cap4[m[33m, [m[1;32mcap4[m[33m)[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Apr 5 18:26:33 2023 -0300
+
+    refatoracao de codigo
+
+[33mcommit f6897e1c0e6d296799dfd2855902db913107f7d4[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Wed Apr 5 11:32:00 2023 -0300
+
+    Update README.md
+
+[33mcommit eb9bf5dabfd4e87ccd2c59b702158881fca9f6c2[m
+Merge: 0246061 df43a3e
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Apr 5 11:27:58 2023 -0300
+
+    Merge branch 'master' of https://github.com/marcosfillipe/nodejs2022
+
+[33mcommit 024606165017761598c3c1b3e9c3571685f0a7fa[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Apr 5 11:27:19 2023 -0300
+
+    iniciando cap4
+
+[33mcommit df43a3efc83bbc31ba49fe8ee690a1f93585a27c[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Apr 2 20:41:22 2023 -0300
+
+    Update README.md
+
+[33mcommit c1a6e4545590a35d2d88bf4ba75336b7e49b8323[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Apr 2 12:06:30 2023 -0300
+
+    Update README.md
+
+[33mcommit ee4355a465c4f8f17d2bb1ec61bd495c3b38e83b[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sun Apr 2 12:01:56 2023 -0300
+
+    cap3 concluido
+
+[33mcommit 842833c645becbc052ed7848647961a705bf9a59[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sat Apr 1 00:32:10 2023 -0300
+
+    autenticacao de usuario
+
+[33mcommit c1d65c1468639d296ab1de7175d1aad849bd63e3[m
+Author: Marcos Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Fri Mar 31 15:22:17 2023 -0300
+
+    criando useCase Users
+
+[33mcommit 55547f296ca1ad4bc17a96c62f6361ba71eee804[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Mar 29 21:03:25 2023 -0300
+
+    correcoes cap3
+
+[33mcommit 2d554b2dc4d2f7fe98b67701c8108cf0d2faecc0[m
+Author: Marcos Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Mar 29 16:07:52 2023 -0300
+
+    alteracoes cap 3
+
+[33mcommit 9dd5ba944be6f95b75c616f2ae1e903a88a56cde[m
+Merge: 18bb8ac 490ac47
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 28 21:36:54 2023 -0300
+
+    Merge pull request #1 from marcosfillipe/aula2
+    
+    Aula2
+
+[33mcommit 490ac476ce1cb4adb7f6e44bf397d5091c11fe1b[m[33m ([m[1;31morigin/aula2[m[33m, [m[1;32maula2[m[33m)[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Tue Mar 28 21:34:13 2023 -0300
+
+    correcao de conflitos com docker
+
+[33mcommit 19f27948fffa1139d51dc36b3b241d815c333e48[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Mon Mar 27 22:56:53 2023 -0300
+
+    alteracoes docker
+
+[33mcommit 53f60c48148362b5acb72562c942ca0c1585b35d[m
+Author: Marcos Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Mon Mar 27 14:33:04 2023 -0300
+
+    configurando docker
+
+[33mcommit 351bcff27e85d33df76be97aa716a40dd6cf9491[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Mon Mar 27 00:52:48 2023 -0300
+
+    Iniciando cap3
+
+[33mcommit 18bb8acc03016d95b629bf1967bb2e8ee335f60b[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 26 00:32:48 2023 -0300
+
+    Update README.md
+
+[33mcommit 83675d44c2e09858883e138b1cdf6db6f94aebd9[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 26 00:32:20 2023 -0300
+
+    Update README.md
+
+[33mcommit d44a67b70debc71f80f08be13d30283346605d17[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 26 00:28:58 2023 -0300
+
+    Update README.md
+
+[33mcommit 27ea4c390bc925c1e3a40ba5689aa7f4f3a06ed0[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 26 00:28:30 2023 -0300
+
+    Update README.md
+
+[33mcommit 68866023088c166e59b2d137986c920d07a6fac8[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sat Mar 25 10:25:52 2023 -0300
+
+    termino cap2
+
+[33mcommit 823d173405f25a663cff161d08e7532b66129f8f[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Thu Mar 23 22:47:41 2023 -0300
+
+    iniciando modulo 6 cap2
+
+[33mcommit c7b7bebb1ece39495f46fe5b7d30e3b0d8fdd173[m
+Author: marcosfillipe <marcosfillipebezerra@gmail.com>
+Date:   Thu Mar 23 15:55:11 2023 -0300
+
+    correcoes
+
+[33mcommit d6ea4d98ac7c0d8fd218986935d82346921adb51[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Mar 22 22:36:11 2023 -0300
+
+    trabalho com upload
+
+[33mcommit 5341a2ef8b5a05af341e1c1dea7762f316e9549a[m
+Author: marcosfillipe <marcosfillipebezerra@gmail.com>
+Date:   Wed Mar 22 16:11:57 2023 -0300
+
+    continuacao do modulo do cap2
+
+[33mcommit 46de13f1a83aa7b4d23c7d158660e6e9a5b220fa[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:58:31 2023 -0300
+
+    Update README.md
+
+[33mcommit e37b6832b4060268d6dc665e4c45dd6cd9434b9b[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:58:18 2023 -0300
+
+    Update README.md
+
+[33mcommit 72d7c501b7366973decddcb969a934cb4d33c8de[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:57:02 2023 -0300
+
+    Update README.md
+
+[33mcommit a0a5d6017d7ac455ea9fc56dab6396f9876fd666[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:45:43 2023 -0300
+
+    Update README.md
+
+[33mcommit 1bdbcc8cdf44c5585ad5559c08cd835c4c129ffb[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:44:02 2023 -0300
+
+    Update README.md
+
+[33mcommit 244c83688666d2ef861d8a831a571c84c669f7d9[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:43:38 2023 -0300
+
+    Update README.md
+
+[33mcommit 402f9e0aa79358c9899d8d3933f6de27ee880ac1[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:43:13 2023 -0300
+
+    Update README.md
+
+[33mcommit 258715c2351160c772cf1d868e2d817b11b3fea8[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:42:26 2023 -0300
+
+    Update README.md
+
+[33mcommit 1448ed1d73a7a7242c077b12517171aaeacc1ada[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Tue Mar 21 23:37:25 2023 -0300
+
+    Update README.md
+
+[33mcommit eba274aa06a06245d581f87f719d2969d92cd22b[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Tue Mar 21 23:29:40 2023 -0300
+
+    seguimento do modulo 2
+
+[33mcommit 962af6a7cdb863df4f5815b27fb2a5dec8119611[m
+Author: marcosfillipe <marcosfillipebezerra@gmail.com>
+Date:   Tue Mar 21 16:25:36 2023 -0300
+
+    atualizacoes
+
+[33mcommit a79722a0b30178e59e602ffcd882d702344adb3d[m
+Author: marcosfillipe <marcosfillipebezerra@gmail.com>
+Date:   Tue Mar 21 15:20:15 2023 -0300
+
+    modulo2
+
+[33mcommit 5f3405cc5b1c81a9b30e26156012d1f6b92dd7ef[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 23:28:11 2023 -0300
+
+    Update README.md
+
+[33mcommit c29772e8b97a1626cfb2e4bb9313c9bddd4c0456[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 23:26:31 2023 -0300
+
+    Update README.md
+
+[33mcommit 6c847c006f30ddd7c295837abb9827d50b665921[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 23:25:56 2023 -0300
+
+    Update README.md
+
+[33mcommit 3b8acfd087d3b872400b16ffb3ebe630981243c0[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Mon Mar 20 23:19:31 2023 -0300
+
+    iniciando cap2
+
+[33mcommit f0fa6f8d6c41c7eec20aff23f42996c656269ad1[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Mon Mar 20 22:37:18 2023 -0300
+
+    cap1
+
+[33mcommit 0f266f9017e6337bd92e21ff3944ba4b24c8481c[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 01:37:17 2023 -0300
+
+    Update README.md
+
+[33mcommit 6a36a84f458d3f2937b34115018a5463f3e75d57[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 01:36:24 2023 -0300
+
+    Update README.md
+
+[33mcommit 1f8d129da0e95c233398c235a0a75fff474e3beb[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 01:36:01 2023 -0300
+
+    Update README.md
+
+[33mcommit c1f8f379d3c69449bc6cc771bc9faf27ea91c563[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Mon Mar 20 01:30:46 2023 -0300
+
+    Update README.md
+
+[33mcommit 356d57a5e0fbf8258a0670818d547921babdc651[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sun Mar 19 20:10:22 2023 -0300
+
+    correcao
+
+[33mcommit d972b088ddc1f5a9506598871c4cfd9c7bd15974[m
+Merge: b848859 438732f
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sun Mar 19 20:04:12 2023 -0300
+
+    conflito resolvido
+
+[33mcommit b848859afbec8fff4e8f47bdf8db679dd748715d[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sun Mar 19 19:58:11 2023 -0300
+
+    correcoes do curso
+
+[33mcommit 438732fa2ddf9300ba0b8275c88e3d40e2674a5a[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:16:40 2023 -0300
+
+    Update README.md
+
+[33mcommit a6d601ff70f2d92fda58050fdab2ec9239ce43af[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:14:50 2023 -0300
+
+    Update README.md
+
+[33mcommit 27d6452a5c5738267a11963536ad684f7498792a[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:12:54 2023 -0300
+
+    Update README.md
+
+[33mcommit 194e6dc4219f8969b873f5d8325de9efe5103ac3[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:12:37 2023 -0300
+
+    Update README.md
+
+[33mcommit e1e2cfc4ec0ad0f4d894f25b417dfae05ccc404a[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:11:24 2023 -0300
+
+    Update README.md
+
+[33mcommit 0036fbad7167ccb3972536aee598ed365318c11c[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:11:11 2023 -0300
+
+    Update README.md
+
+[33mcommit 2f6cf80ba3713b1e8dc947b78bb9188734617c2e[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:09:54 2023 -0300
+
+    Update README.md
+
+[33mcommit 63e091ae5759a8a0b2de3aadf57bdee842b2c2de[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:07:52 2023 -0300
+
+    Update README.md
+
+[33mcommit 90f35003a1f9033412967cfeba98e5f39f3efefb[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:06:49 2023 -0300
+
+    Update README.md
+
+[33mcommit d7bb790904885014fa3e8ea17407e888c5b075fa[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:05:28 2023 -0300
+
+    Update README.md
+
+[33mcommit 40dcfbae4113eaa4f731a09cec7849fee754606f[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:00:57 2023 -0300
+
+    Update README.md
+
+[33mcommit 8943ce990a2bf7028c3dec6ba52782453abf98a4[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:00:48 2023 -0300
+
+    Update README.md
+
+[33mcommit ad1d419708ba131057b2f477db462b6aaf008d9d[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:00:26 2023 -0300
+
+    Update README.md
+
+[33mcommit 1840f6e78530f413a8a136ccd4a21803a6ec0a0a[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 16:00:13 2023 -0300
+
+    Update README.md
+
+[33mcommit 4492471eeec189d10718ba4f332fa8296cf3981d[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:59:54 2023 -0300
+
+    Update README.md
+
+[33mcommit 43e74806ae4cd9c59e81b9d54ac09976c7c64894[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:59:36 2023 -0300
+
+    Update README.md
+
+[33mcommit 20b55836e2cdb81cd1d489c6a7715749f42532ed[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:58:46 2023 -0300
+
+    Update README.md
+
+[33mcommit 9144779ac37747a9a53a29dbaceecad8d00f3232[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:57:40 2023 -0300
+
+    Update README.md
+
+[33mcommit 29f7f22eae327debc0608b6af9853a9070f72a59[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:57:21 2023 -0300
+
+    Update README.md
+
+[33mcommit 659a117b654d59dc326b57cf0329b7f3b607f513[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:56:28 2023 -0300
+
+    Update README.md
+
+[33mcommit d8a47a3da8d374632626b0d5f22edf75e6651d00[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:56:08 2023 -0300
+
+    Update README.md
+
+[33mcommit fb8eeb0d32d9d5f9229713c68fde92c068dc0c6b[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:55:59 2023 -0300
+
+    Update README.md
+
+[33mcommit 06319a7d1cc619b41240ac4c6cfe5d1352f360da[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:55:44 2023 -0300
+
+    Update README.md
+
+[33mcommit f5b2e681cf6443e15c45e7b585f5419df1ca831c[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:55:11 2023 -0300
+
+    Update README.md
+
+[33mcommit 0d42304e11213831444eb19668ab8a64c727d75e[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:54:31 2023 -0300
+
+    Update README.md
+
+[33mcommit e1c3811fa51e179f7b4d72d0ac6e7504dcfc30d8[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:51:55 2023 -0300
+
+    Update README.md
+
+[33mcommit a67ac3232aec01da20bc6db7608833ab17c7b162[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:51:08 2023 -0300
+
+    Update README.md
+
+[33mcommit 30004c848bd879e268ac9cb40a78f426def1aedb[m
+Author: Marcos Fillipe <53455496+marcosfillipe@users.noreply.github.com>
+Date:   Sun Mar 19 15:48:00 2023 -0300
+
+    Update README.md
+
+[33mcommit 2803246c2bc338530b3ee3bcad0c182c12f7a797[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sun Mar 19 15:44:14 2023 -0300
+
+    add readme
+
+[33mcommit 95be17b5746c1cba7df9ec25526c1b4f88e77955[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sat Mar 18 21:14:56 2023 -0300
+
+    conclusao primeiro projeto
+
+[33mcommit f5d991ebe7ae788b36bf248cb5d37d7383584d73[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sat Mar 18 12:25:14 2023 -0300
+
+    Primeiro Modulo
+
+[33mcommit 001bc65a6e28841cd9a8b0ec2cc2675932f99671[m
+Author: Fillipe <marcosfillipebezerra@gmail.com>
+Date:   Sat Mar 18 10:34:09 2023 -0300
+
+    primeiro commit
